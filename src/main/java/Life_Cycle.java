@@ -1,5 +1,3 @@
-import jakarta.servlet.*;
-import jakarta.servlet.http.*;
 import jakarta.servlet.GenericServlet;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.ServletRequest;
